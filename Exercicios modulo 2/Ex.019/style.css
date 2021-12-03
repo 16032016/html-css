@@ -1,0 +1,24 @@
+@charset UTF-8;
+body { background-color: rgb(36, 100, 100);
+    background-image: linear-gradient( to right #7E8054 #D9D2D2 ) ;
+        
+    border-radius: 15px ;
+    margin: auto;
+    
+     }
+   
+    h1 { color: rgb(71, 8, 19);
+        border-radius: 15px;
+    text-shadow: 0.3;}
+
+   h1#principal{ background-color: rgb(207, 180, 180);
+                 text-align: center;
+                padding: 10px;}
+h
+h2 {color :rgb(132, 132, 212)}
+
+.Básico{color: rgb(110, 85, 134);
+font-weight: bold;}
+.Intermediário{color: rgb(110, 85, 134);}
+.Avançado{color: rgb(110, 85, 134);}
+.Destaque {background-color: chartreuse;}
